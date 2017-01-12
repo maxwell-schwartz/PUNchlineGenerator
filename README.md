@@ -8,4 +8,4 @@ Contains: <ul>
 <li>Jupyter Notebook file with the actual "pun" code
 </ul>
 
-Current status: returns the input string (as a list) with one word substituted for a similar-sounding word.
+Current status: returns the input string with all words replaced for which a substitution was found.
