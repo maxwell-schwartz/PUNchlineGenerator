@@ -13,6 +13,8 @@ Generates a pun-like variation of a user-entered phrase. Incorporates a Levensht
 
 ## Setup
 
+If you just want to run the main code, not setup is required. These additional libraries are for supplementary material.
+
 #### For those who use Anaconda:
 
 - Clone repository locally
