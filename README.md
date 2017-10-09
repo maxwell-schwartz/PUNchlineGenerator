@@ -4,10 +4,12 @@ Generates a pun-like variation of a user-entered phrase. Incorporates a Levensht
 
 ## Contains: 
 - `Edit_Distance.ipynb` Jupyter Notebook file with code showing how edit distance works
+- `Parts_of_speech.ipynb` Jupyter Notebook showing some basic part-of-speech tagging
 - `Pronunciation.ipynb` Jupyter Notebook showing options for phonetic representations
 - `PUNchline.ipynb` Jupyter Notebook file with the actual "pun" code
 - `real_words_lower.csv` CSV file of "real" words and their pronunciations. (CMU Dict contains some weird words that are removed from this)
 - `all_words.csv` CSV with words, pronunciations, and parts of speech. This includes some plurals that were not in Brown Corpus for some reason
+- `PG_Pun_Talk.pptx` PowerPoint presentation from the PyGotham 2017 talk
 - `scripts/` Scripts to make setting up the enviroment easier for those who is Anaconda
 
 
